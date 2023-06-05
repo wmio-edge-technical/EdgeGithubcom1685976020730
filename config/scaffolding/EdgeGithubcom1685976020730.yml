@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeGithubcom1685976020730
+  gitServerName: ghe2e1685976011988
+  gitUrl: https://github.com/wmio-edge-technical/EdgeGithubcom1685976020730
+  gitUsername: wmio-edge-technical
+  gitToken: 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
+  gitBranch: master
